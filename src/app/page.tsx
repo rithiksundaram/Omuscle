@@ -34,10 +34,7 @@ export default function Home() {
         </div>
 
         <p className="text-zinc-400 text-lg md:text-xl tracking-wide max-w-lg mb-3">
-          The AI rates your physique. Challenge a friend. Only one walks away dominant.
-        </p>
-        <p className="text-zinc-600 text-sm mb-10">
-          Get in position · Step back · Let the scanner judge
+          Step back · AI rates your physique · Only one walks away dominant
         </p>
 
         {/* Primary CTA — Private Match */}
